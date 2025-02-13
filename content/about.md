@@ -4,7 +4,7 @@ date: 2024-12-20
 draft: false
 ---
 
-# Over Mij
+<!-- # Over Mij -->
 
 Welkom! Mijn naam is **Matisse Van Laere**, een ambitieuze student in **Toegepaste Informatica** met een specialisatie in **Netwerk- en Systeembeheer**. Ik combineer een passie voor technologie met een sterke drijfveer om complexe problemen op te lossen en systemen efficiënter te maken. Mijn expertise ligt voornamelijk in het beheren van **Linux-systemen**, het automatiseren van taken via **Bash** en **Python**, en het opzetten en onderhouden van robuuste netwerkomgevingen.
 
