@@ -15,28 +15,27 @@ Met een hands-on aanpak en een nieuwsgierigheid naar de nieuwste technologische 
 ## Opleiding
 
 - **Bachelor Toegepaste Informatica**  
-  **Hogeschool Gent (HoGent)** | In uitvoering  
-  Sinds 2021 studeer ik aan HoGent binnen de richting Toegepaste Informatica, waar ik me specialiseer in systeem- en netwerkbeheer. Mijn afstuderen staat gepland voor februari 2024.
+  **Hogeschool Gent (HoGent)** | Afgestudeerd  
+  Sinds 2021 studeerde ik aan HoGent binnen de richting Toegepaste Informatica, waar ik me specialiseerde in systeem- en netwerkbeheer. Ik ben in februari 2025 afgestudeerd.
 
 ## Technische Vaardigheden
 
-- **Besturingssystemen**: Windows Server, Linux (RHEL, Shell scripting, Docker)  
-- **Automatisering & Tools**: Ansible, Vagrant, PowerShell  
-- **Netwerken**: Cisco (Routing & Switching, netwerkconfiguratie)  
-- **Programmeertalen**: Bash, Python, Java, PowerShell  
-- **Databases**: MySQL, Microsoft SQL  
+- **Besturingssystemen**: Windows Server, Linux (RHEL, Shell scripting, Docker)
+- **Automatisering & Tools**: Ansible, Vagrant, PowerShell
+- **Netwerken**: Cisco (Routing & Switching, netwerkconfiguratie)
+- **Programmeertalen**: Bash, Python, Java, PowerShell
+- **Databases**: MySQL, Microsoft SQL
 
 ## Certificaties
 
-- **Google Mobile Experience Certificaat**  
+- **Google Mobile Experience Certificaat**
 
 ## Talenkennis
 
-- **Nederlands**: Moedertaal  
-- **Engels**: Gevorderd (professionele werkvaardigheid)  
-- **Frans**: Basiskennis 
+- **Nederlands**: Moedertaal
+- **Engels**: Gevorderd (professionele werkvaardigheid)
+- **Frans**: Basiskennis
 
 ## Mijn Passies
 
 Ik blijf graag op de hoogte van de nieuwste **technologische trends** en verdiep me in thema’s zoals **cybersecurity** en **Linux**. Deze interesses motiveren mij om steeds verder te groeien in mijn vakgebied.
-
