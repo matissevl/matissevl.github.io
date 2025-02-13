@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matisse Van Laere</title>
+    <link>https://matissevl.top/</link>
+    <description>Recent content on Matisse Van Laere</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://matissevl.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://matissevl.top/about/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://matissevl.top/about/</guid>
+      <description>Over Mij Welkom! Mijn naam is Matisse Van Laere, een ambitieuze student in Toegepaste Informatica met een specialisatie in Netwerk- en Systeembeheer. Ik combineer een passie voor technologie met een sterke drijfveer om complexe problemen op te lossen en systemen efficiënter te maken. Mijn expertise ligt voornamelijk in het beheren van Linux-systemen, het automatiseren van taken via Bash en Python, en het opzetten en onderhouden van robuuste netwerkomgevingen.
+Professioneel Profiel Met een hands-on aanpak en een nieuwsgierigheid naar de nieuwste technologische trends, heb ik ervaring opgedaan in zowel systeembeheer als scripting.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://matissevl.top/projects/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://matissevl.top/projects/</guid>
+      <description>Automatisering van IPAM-database bij FOD Financiën Tijdens mijn stage bij de FOD Financiën heb ik gewerkt aan een project waarbij ik een IPAM-database (IP Address Management) heb opgezet en geautomatiseerd. Dit project was gericht op het efficiënt centraliseren en beheren van netwerkgegevens uit verschillende bronnen.
+Projectbeschrijving De kern van het project was het integreren van gegevens uit diverse bronnen in NetBox, een open-source IPAM- en DCIM-oplossing. Hierbij heb ik de volgende stappen uitgevoerd:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://matissevl.top/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://matissevl.top/contact/</guid>
+      <description>Contact Ik sta open voor vragen, samenwerkingen of gewoon een interessant gesprek over technologie! Hieronder vind je mijn contactgegevens.
+E-mail Je kunt me bereiken via e-mail:
+📧 matisse.vanlaere@student.hogent.be
+GitHub Bekijk mijn projecten en bijdragen op GitHub:
+🔗 https://github.com/matissevl
+LinkedIn Laten we connecteren op LinkedIn:
+🔗 https://www.linkedin.com/in/matisse-van-laere-0177a72a0/
+Ik hoor graag van je!</description>
+    </item>
+    
+  </channel>
+</rss>
