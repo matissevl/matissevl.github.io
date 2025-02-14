@@ -4,3 +4,4 @@
 hugo.exe
 hugo.linux
 hugo.darwin
+.hugo_build.lock
