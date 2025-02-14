@@ -1,8 +1,8 @@
-baseURL = "https://matissevl.top/"
-defaultContentLanguage = "en"
+baseURL = "https://matissevl.github.io/"
+defaultContentLanguage = "nl"
 # Automatically generate robots.txt
 enableRobotsTXT = false
-languageCode = "en"
+languageCode = "nl"
 theme = "gokarna"
 title = "Matisse Van Laere"
 
@@ -63,5 +63,6 @@ title = "Matisse Van Laere"
 
 [params]
   avatarURL = "/images/avatar.jpg"
-  description = "Innovatieve IT-oplossingen met een focus op kwaliteit en efficiëntie."
+  # description = "Innovatieve IT-oplossingen met een focus op kwaliteit en efficiëntie."
+  description = "IT-specialist met een passie voor systeem- en netwerkbeheer"
   avatarSize = "size-l"
