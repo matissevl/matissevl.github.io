@@ -5,7 +5,7 @@ Ik sta open voor vragen, samenwerkingen of gewoon een interessant gesprek over t
 ## E-mail
 
 Je kunt me bereiken via e-mail:  
-📧 **[matisse.vanlaere@student.hogent.be](mailto:matisse.vanlaere@student.hogent.be)**
+📧 **[matisse.vanlaere@gmail.com](mailto:matisse.vanlaere@gmail.com)**
 
 ## GitHub
 
@@ -20,4 +20,3 @@ Laten we connecteren op LinkedIn:
 ---
 
 Ik hoor graag van je!
-
